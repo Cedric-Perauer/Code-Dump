@@ -29,6 +29,6 @@ ostream &operator<<(ostream &out, const Complex &c);
 Complex operator*(const Complex &c1);
 Complex operator+(const Complex &c1, const Complex &c2);
 
-} /* namespace caveofprogramming */
+}
 
 #endif /* COMPLEX_H_ */
