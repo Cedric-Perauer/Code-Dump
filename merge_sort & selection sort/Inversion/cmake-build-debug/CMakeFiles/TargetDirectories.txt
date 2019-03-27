@@ -1,0 +1,3 @@
+C:/Users/ceddy/CLionProjects/Inversion/cmake-build-debug/CMakeFiles/Inversion.dir
+C:/Users/ceddy/CLionProjects/Inversion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ceddy/CLionProjects/Inversion/cmake-build-debug/CMakeFiles/rebuild_cache.dir

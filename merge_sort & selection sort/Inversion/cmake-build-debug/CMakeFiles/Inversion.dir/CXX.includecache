@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ceddy/CLionProjects/Inversion/main.cpp
+stdio.h
+-
+iostream
+-
+fstream
+-
+time.h
+-
+memory
+-
+
