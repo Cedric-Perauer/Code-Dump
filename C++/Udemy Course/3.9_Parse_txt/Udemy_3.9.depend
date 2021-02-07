@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1543238844 source:c:\users\cedric\desktop\python\c++\udemy_3.9\main.cpp
+	<iostream>
+	<fstream>
+

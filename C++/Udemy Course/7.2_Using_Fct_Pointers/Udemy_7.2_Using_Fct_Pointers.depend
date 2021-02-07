@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545590075 source:c:\users\cedric\desktop\code\c++\udemy_7.2_using_fct_pointers\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

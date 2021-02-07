@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543848174 source:c:\users\cedric\desktop\python\c++\sets_4.20\main.cpp
+	<iostream>
+	<set>
+	<unistd.h>
+

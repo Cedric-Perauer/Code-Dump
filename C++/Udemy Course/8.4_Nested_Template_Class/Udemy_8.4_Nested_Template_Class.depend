@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1545995644 source:c:\users\cedric\desktop\code\c++\udemy_8.4_nested_template_class\main.cpp
+	<iostream>
+	"ring.h"
+
+1545995967 c:\users\cedric\desktop\code\c++\udemy_8.4_nested_template_class\include\ring.h
+	<iostream>
+

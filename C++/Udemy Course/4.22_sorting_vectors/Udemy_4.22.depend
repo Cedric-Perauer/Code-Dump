@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1544294445 source:c:\users\cedric\desktop\code\c++\udemy_4.22\main.cpp
+	<iostream>
+	<vector>
+	<iostream>
+	<stdlib.h>
+	<algorithm>
+

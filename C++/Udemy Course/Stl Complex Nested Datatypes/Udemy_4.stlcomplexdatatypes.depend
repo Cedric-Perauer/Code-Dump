@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1544299948 source:c:\users\cedric\desktop\code\c++\udemy_4.stlcomplexdatatypes\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<map>
+

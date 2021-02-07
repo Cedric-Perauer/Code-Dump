@@ -1,0 +1,6 @@
+Ring Buffers
+  
+  What I learned:
+  - beneficial for embedded systems due to fixed size
+  - the most recent data is always available, old data will be overwritten with new data
+  - it's important to set the position index back to 0 so we don't go off the end of the buffer

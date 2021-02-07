@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1545989429 source:c:\users\cedric\desktop\code\c++\udemy_8.3_range_based_loops\main.cpp
+	<iostream>
+	<vector>
+
