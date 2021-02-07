@@ -1,0 +1,6 @@
+rospkg 
+pyyaml 
+gnupg
+pycryptodomex
+python-gnupg
+gnupg
