@@ -1,0 +1,22 @@
+Mercedes-AMG Petronas;W08 EQ Power;355km/h;2.5s;728kg;60%;1000PS;2017
+Ferrari;F2004
+;360km/h;2.3s;605kg;75%;893PS;2004
+
+Brabham;BT55;344km/h;2.8s;555kg;0%;1430PS;1986
+
+Mercedes-Benz;W196;290km/h;3.8s;650kg;66.7%;280PS;1955
+
+
+Audi Quattro;S1;220km/h;2.9s;1085kg;55%;530PS;1985
+VW;Polo R WRC;
+243km/h;3.9s;1200kg;61.5%;362PS;2015
+DTM AMG Mercedes;C-Coupe;300km/h;3s;1080kg;53.8%;486PS;2012
+BMW;M4 DTM;300km/h;3s;1120kg;50%;480PS;2014
+
+
+
+
+Audi;5 Serie DTM;295km/h;3.2s;1050kg;35%;460PS;2012
+Porsche;919 Hybrid;365km/h;2.7s;875kg;100%;877PS;2015
+Audi Sport ABT Schaeffler;Formula E;225km/h;2.9s;870kg;9.1%;272PS;2015
+Rennstall;Stallardo 17;112km/h;3.2s;199kg;33.3%;92PS;2017

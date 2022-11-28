@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1529922538 source:p:\brainextension\_he\20_vorlesungen\40_fsb2_informatik2\25_swe\projekt_fahrzeugquartett_v4\fahrzeug.cpp
+	"stdlib.h"
+	"Fahrzeug.h"
+
+1529926267 p:\brainextension\_he\20_vorlesungen\40_fsb2_informatik2\25_swe\projekt_fahrzeugquartett_v4\fahrzeug.h
+	<iostream>
+	<string.h>
+
+1529926321 source:p:\brainextension\_he\20_vorlesungen\40_fsb2_informatik2\25_swe\projekt_fahrzeugquartett_v4\main.cpp
+	"Fahrzeug.h"
+	"PKW.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1529926120 p:\brainextension\_he\20_vorlesungen\40_fsb2_informatik2\25_swe\projekt_fahrzeugquartett_v4\pkw.h
+	"Fahrzeug.h"
+
+1529926299 source:p:\brainextension\_he\20_vorlesungen\40_fsb2_informatik2\25_swe\projekt_fahrzeugquartett_v4\pkw.cpp
+	"PKW.h"
+
+1529922538 source:c:\users\patri\onedrive\dokumente\studium\2. semester\3_informatik_2\projekt_fahrzeugquartett_v4\fahrzeug.cpp
+	"stdlib.h"
+	"Fahrzeug.h"
+
+1529926267 c:\users\patri\onedrive\dokumente\studium\2. semester\3_informatik_2\projekt_fahrzeugquartett_v4\fahrzeug.h
+	<iostream>
+	<string.h>
+
+1529933619 source:c:\users\patri\onedrive\dokumente\studium\2. semester\3_informatik_2\projekt_fahrzeugquartett_v4\pkw.cpp
+	"PKW.h"
+
+1529926120 c:\users\patri\onedrive\dokumente\studium\2. semester\3_informatik_2\projekt_fahrzeugquartett_v4\pkw.h
+	"Fahrzeug.h"
+
+1529936184 source:c:\users\patri\onedrive\dokumente\studium\2. semester\3_informatik_2\projekt_fahrzeugquartett_v4\main.cpp
+	"Fahrzeug.h"
+	"PKW.h"
+	"Motorrad.h"
+	"LKW.h"
+	"Rennfahrzeuge.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1529935562 c:\users\patri\onedrive\dokumente\studium\2. semester\3_informatik_2\projekt_fahrzeugquartett_v4\motorrad.h
+	"Fahrzeug.h"
+
+1529935663 c:\users\patri\onedrive\dokumente\studium\2. semester\3_informatik_2\projekt_fahrzeugquartett_v4\lkw.h
+	"Fahrzeug.h"
+
+1529935587 c:\users\patri\onedrive\dokumente\studium\2. semester\3_informatik_2\projekt_fahrzeugquartett_v4\rennfahrzeuge.h
+	"Fahrzeug.h"
+
+1529935520 source:c:\users\patri\onedrive\dokumente\studium\2. semester\3_informatik_2\projekt_fahrzeugquartett_v4\motorrad.cpp
+	"Motorrad.h"
+
+1529935933 source:c:\users\patri\onedrive\dokumente\studium\2. semester\3_informatik_2\projekt_fahrzeugquartett_v4\lkw.cpp
+	"LKW.h"
+
+1529935751 source:c:\users\patri\onedrive\dokumente\studium\2. semester\3_informatik_2\projekt_fahrzeugquartett_v4\rennfahrzeuge.cpp
+	"Rennfahrzeuge.h"
+
+1531406041 source:c:\users\cedric\desktop\info 2 & vernetzung\projekt_fahrzeugquartett_v4\main.cpp
+	"Fahrzeug.h"
+	"PKW.h"
+	"Motorrad.h"
+	"LKW.h"
+	"Rennfahrzeuge.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<iostream>
+	<ctime>
+	<math.h>
+	<conio.h>
+
+1529926268 c:\users\cedric\desktop\info 2 & vernetzung\projekt_fahrzeugquartett_v4\fahrzeug.h
+	<iostream>
+	<string.h>
+
+1529926122 c:\users\cedric\desktop\info 2 & vernetzung\projekt_fahrzeugquartett_v4\pkw.h
+	"Fahrzeug.h"
+
+1529935564 c:\users\cedric\desktop\info 2 & vernetzung\projekt_fahrzeugquartett_v4\motorrad.h
+	"Fahrzeug.h"
+
+1529935664 c:\users\cedric\desktop\info 2 & vernetzung\projekt_fahrzeugquartett_v4\lkw.h
+	"Fahrzeug.h"
+
+1529935588 c:\users\cedric\desktop\info 2 & vernetzung\projekt_fahrzeugquartett_v4\rennfahrzeuge.h
+	"Fahrzeug.h"
+
+1529922540 source:c:\users\cedric\desktop\info 2 & vernetzung\projekt_fahrzeugquartett_v4\fahrzeug.cpp
+	"stdlib.h"
+	"Fahrzeug.h"
+
+1529935934 source:c:\users\cedric\desktop\info 2 & vernetzung\projekt_fahrzeugquartett_v4\lkw.cpp
+	"LKW.h"
+
+1529935522 source:c:\users\cedric\desktop\info 2 & vernetzung\projekt_fahrzeugquartett_v4\motorrad.cpp
+	"Motorrad.h"
+
+1530817472 source:c:\users\cedric\desktop\info 2 & vernetzung\projekt_fahrzeugquartett_v4\pkw.cpp
+	"PKW.h"
+
+1529935752 source:c:\users\cedric\desktop\info 2 & vernetzung\projekt_fahrzeugquartett_v4\rennfahrzeuge.cpp
+	"Rennfahrzeuge.h"
+

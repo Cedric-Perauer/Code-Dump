@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1526307571 source:c:\users\cedric\desktop\info 2 & vernetzung\c\11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

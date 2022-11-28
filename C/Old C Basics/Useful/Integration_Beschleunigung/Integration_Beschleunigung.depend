@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1523894779 source:c:\users\cedric\desktop\info 2 & vernetzung\integration_beschleunigung\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1524221629 source:c:\users\cedric\desktop\info 2 & vernetzung\c\integration_beschleunigung\main.c
+	<stdio.h>
+	<stdlib.h>
+
