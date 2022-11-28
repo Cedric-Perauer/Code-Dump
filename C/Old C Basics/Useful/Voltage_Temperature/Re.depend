@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1524424816 source:c:\users\cedric\desktop\info 2 & vernetzung\re\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1524494759 source:c:\users\cedric\desktop\info 2 & vernetzung\voltage_temperature\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523616094 source:c:\users\cedric\desktop\info 2 & vernetzung\primzahl_check\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

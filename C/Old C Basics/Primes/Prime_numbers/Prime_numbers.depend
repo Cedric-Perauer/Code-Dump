@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1522610331 source:c:\users\cedric\desktop\info 2 & vernetzung\prime_numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

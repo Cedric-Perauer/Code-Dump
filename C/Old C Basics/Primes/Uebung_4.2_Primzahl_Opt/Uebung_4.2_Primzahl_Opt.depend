@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1522077501 source:p:\brainextension\_he\20_vorlesungen\41_fsb2_kommvernetz\25_swe\uebung_4.2_primzahl_opt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1523009545 source:p:\brainextension\_he\20_vorlesungen\40_fsb2_informatik2\25_swe\uebung_4.2_primzahl_opt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1524572556 source:c:\users\cedric\desktop\info 2 & vernetzung\uebung_4.2_primzahl_opt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1525965081 source:c:\users\cedric\desktop\info 2 & vernetzung\c\uebung_4.2_primzahl_opt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
